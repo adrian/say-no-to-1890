@@ -1,0 +1,8 @@
+In Ireland we have geographic and non-geographic telephone numbers. A geographic number has a prefix that indicates where in the country that number originates. Non-geographic numbers have no such geographic tie.
+
+1890 numbers are non-geographic. They've become very popular with businesses since presumably they look more professional and are normally easy to remember. Unfortunately the problem is that non-geographic numbers are never included in the free calls packages that telecom companies offer.
+
+The aim of this project is to create a Firefox plugin that decorates 1890 numbers with their geographic alternative.
+
+See this blog post which was the impetus for starting this project,
+http://www.saynoto1890.com/call-for-extension-plug-in-developers/
